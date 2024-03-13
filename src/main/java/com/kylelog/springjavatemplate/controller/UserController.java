@@ -10,4 +10,9 @@ public class UserController {
     public String signUp(String email, String password) {
         return "Hello, " + email + "!";
     }
+
+    @PostMapping("/login")
+    public String login(String email, String password) {
+        return "Hello, " + email + "!";
+    }
 }
