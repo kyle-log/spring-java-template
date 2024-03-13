@@ -1,1 +1,3 @@
-# spring-java-template
+# Spring Java Template
+
+A spring-based java app template.
