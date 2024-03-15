@@ -1,6 +1,6 @@
-package com.kylelog.springjavatemplate.controller;
+package com.cocomo.controller;
 
-import com.kylelog.springjavatemplate.service.UserService;
+import com.cocomo.service.UserService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

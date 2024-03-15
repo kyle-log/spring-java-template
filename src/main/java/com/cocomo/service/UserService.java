@@ -1,4 +1,4 @@
-package com.kylelog.springjavatemplate.service;
+package com.cocomo.service;
 
 public interface UserService {
 

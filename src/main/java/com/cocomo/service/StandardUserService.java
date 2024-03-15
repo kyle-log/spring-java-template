@@ -1,4 +1,4 @@
-package com.kylelog.springjavatemplate.service;
+package com.cocomo.service;
 
 import org.springframework.stereotype.Service;
 
